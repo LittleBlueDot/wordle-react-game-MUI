@@ -1,9 +1,13 @@
 {
-  "name": "word-game",
+  "name": "wordle-react-game-mui",
   "version": "0.1.0",
   "private": true,
-  "author": "Josh Comeau <me@joshwcomeau.com>",
   "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.0.14",
+    "@fontsource/ubuntu": "^5.0.14",
+    "@mui/material": "^5.16.7",
     "eslint": "8.49.0",
     "eslint-config-react-app": "7.0.1",
     "new-component": "5.0.2",
